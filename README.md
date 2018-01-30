@@ -30,6 +30,11 @@ In `tslint.json`:
 * [TSLint ESLint Rules](https://www.npmjs.com/package/tslint-eslint-rules)
 * [TSLint Config Standard](https://www.npmjs.com/package/tslint-config-standard)
 
+#### Recommended extensions
+
+* [SonarTS](https://www.npmjs.com/package/tslint-sonarts)
+* [RxJS TSLint Rules](https://www.npmjs.com/package/rxjs-tslint-rules)
+
 ## License
 
 Apache 2.0

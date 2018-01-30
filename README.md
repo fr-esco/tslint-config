@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/@fr-esco/tslint-config.svg?style=flat)](https://npmjs.org/package/@fr-esco/tslint-config)
 <!-- [![NPM downloads](https://img.shields.io/npm/dm/@fr-esco/tslint-config.svg?style=flat)](https://npmjs.org/package/@fr-esco/tslint-config) -->
-<!-- [![David DM badge](https://david-dm.org/fr-esco/tslint-config.svg)](https://david-dm.org/fr-esco/tslint-config) -->
+[![dependencies Status](https://david-dm.org/fr-esco/tslint-config/status.svg)](https://david-dm.org/fr-esco/tslint-config)
 
 > A [TSLint config](https://palantir.github.io/tslint/usage/tslint-json/) for [JavaScript Standard Style](http://standardjs.com/), with (almost) every rule enabled and field-tested.
 

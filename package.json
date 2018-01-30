@@ -1,0 +1,36 @@
+{
+  "name": "@fr-esco/tslint-config",
+  "version": "1.0.0",
+  "description": "A TSLint config for TypeScript Standard Style, with (almost) every rule enabled and field-tested.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr-esco/tslint-config.git"
+  },
+  "keywords": [
+    "tslint",
+    "tslint-config",
+    "lint",
+    "config",
+    "standard",
+    "typescript"
+  ],
+  "author": "Francesco Colamonici <f.colamonici@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fr-esco/tslint-config/issues"
+  },
+  "homepage": "https://github.com/fr-esco/tslint-config#readme",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "tslint-config-standard": "^7.0.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.9.1",
+    "typescript": "^2.3.4"
+  }
+}

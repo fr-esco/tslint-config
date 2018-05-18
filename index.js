@@ -192,6 +192,7 @@ module.exports = {
     "prefer-readonly": true,
     "prefer-switch": true,
     "prefer-template": true,
+    "prefer-while": true,
     "promise-function-async": true,
     quotemark: [
       true,

@@ -55,6 +55,10 @@ module.exports = {
     ],
     deprecation: true,
     encoding: true,
+    "file-name-casing": [
+      true,
+      "kebab-case"
+    ],
     forin: true,
     "import-blacklist": [
       true,

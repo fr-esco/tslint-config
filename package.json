@@ -1,6 +1,6 @@
 {
   "name": "@fr-esco/tslint-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A TSLint config for TypeScript Standard Style, with (almost) every rule enabled and field-tested.",
   "main": "index.js",
   "repository": {
@@ -27,7 +27,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "tslint-config-standard": "^7.0.0"
+    "tslint-config-standard": "^7.1.0"
   },
   "peerDependencies": {
     "tslint": "^5.10.0",
